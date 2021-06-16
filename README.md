@@ -1,3 +1,7 @@
+<h2>I have created a news applications website</h2>
+<p>I have used news' API and Alan-AI,This application is totaly voice assistant,just by speaking one can get news from any domain of his intrest and one can also specify the channel of news</p>
+<a href="https://wizardly-galileo-9167c7.netlify.app/"> click here to preview</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
