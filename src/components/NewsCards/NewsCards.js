@@ -8,7 +8,7 @@ const infoCards = [
     color: "#1565c0",
     title: "News by Categories",
     info:
-      "Business, Entertainment, General, Health, Science, Sports, Technology",
+      "Business, Entertainment, Health,Sports, Technology",
     text: "Give me the latest Technology news",
   },
   {
